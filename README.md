@@ -1,1 +1,1 @@
-config.jsonhttps://github.compython# supreme-guacamole
+main.pyconfig.jsonhttps://github.compython# supreme-guacamole
